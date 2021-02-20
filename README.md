@@ -1,3 +1,5 @@
-Lab 7
+# Lab 7
 
-Luke Myers
+### Luke Myers
+
+https://19lmyers.github.io/Lab7/
